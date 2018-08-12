@@ -1,10 +1,11 @@
 html{
 	background: url( img/night.png) center center / cover no-repeat fixed;
+	border-right: solid 75px rgba(0,0,0,0.80);
+	border-left: solid 75px rgba(0,0,0,0.80);
 }
 
 body{
-	border-right: solid 75px rgba(0,0,0,0.80);
-	border-left: solid 75px rgba(0,0,0,0.80);
+	
 }
 
 .catch-copy{
